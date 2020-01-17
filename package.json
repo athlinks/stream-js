@@ -119,7 +119,8 @@
   "files": [
     "dist",
     "lib",
-    "types"
+    "types",
+    "src"
   ],
   "engines": {
     "node": "10.* || >=12"
